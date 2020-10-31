@@ -1,0 +1,17 @@
+{
+  "name": "sale-kit",
+  "version": "1.0.0",
+  "description": "Sale-kit document for MedRep.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sale"
+  ],
+  "author": "Viking",
+  "license": "ISC"
+}
