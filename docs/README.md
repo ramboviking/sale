@@ -12,5 +12,5 @@ This document includes for every product:
 1. [Skill](/skill/overview.md)
 2. [Product](/product/)
 
-Quick link
+Quick link:
 [Kỹ năng teamwork](/skill/teamwork.md)
