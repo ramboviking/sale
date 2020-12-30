@@ -34,3 +34,7 @@ Khi khách hàng từ chối sản phẩm, cần thực hiện các bước sau:
 2. Tìm cách giảm nhẹ vấn đề.
 3. Tập trung vào vấn đề (nếu khách hàng đánh trống lãng)
 4. Đề xuất giải pháp
+
+Nếu giải quyết sự từ chối tốt đồng nghĩa với bán được nhiều hàng hơn. Dưới đây là một vài tình huống từ chối thường gặp khi bán hàng.
+
+[Từ chối sản phẩm mới](./denial/new-product.md)

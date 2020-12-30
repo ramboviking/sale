@@ -67,3 +67,7 @@ Mỗi khi ghi nhận bất kỳ thông tin gì từ khách hàng (cho dù đó l
 3. Trường hợp khách hàng luôn so sánh giá với chợ sỉ thì phải làm sao?
 4. Khách hàng mua hàng với tâm thế `ban ơn` cho TDV thì có nên bán không?
 5. Khách hàng cứ luôn miệng chê sản phẩm của công ty và nâng bi sản phẩm đối thủ nhưng vẫn đặt hàng hoài thì nghĩa là gì?
+
+Tham khảo thêm:
+
+[Phương pháp giúp tăng doanh số](./sale/increase.md)

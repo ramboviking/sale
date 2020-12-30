@@ -4,6 +4,8 @@ Giải quyết vấn đề là một kỹ năng cần có vì suy cho cùng chú
 ## Process
 Khi gặp bất cứ vấn đề nào thì quy trình giải quyết sẽ gồm một số bước cơ bản như sau.
 
+![Quy trình](https://cdn.playbuzz.com/cdn/100b0a64-8d57-4505-91cf-391e4fd28d6b/00967a87-b27c-434f-971f-e4ac838beef6.jpg)
+
 ### Phân tích vấn đề
 Bao gồm mô tả vấn đề, xác định các yếu tố đóng góp, phân tích các dữ liệu liên quan, phân tích số liệu lịch sử, phân tích nguyên nhân gốc rễ. Sau bước phân tích này, chúng ta sẽ xác định được nguyên nhân đưa chúng ta đến tình huống khó khăn hiện tại.
 
@@ -20,7 +22,7 @@ Dựa trên các giải pháp đã đề xuất. Chúng ta sẽ đi sâu vào ph
 Thực hiện giải pháp đã chọn. Bao gồm thông báo cho những người liên quan về kết quả giải quyết vụ việc.
 
 ### Tích hợp vào framework
-Cuối cùng, tích hợp các biện pháp dự phòng, các chỉ số cần theo dõi mới, các công cụ phát hiện vấn đề tương tự vào framwork chung của công ty. Điều này sẽ giúp chúng ta tích lũy kinh nghiệm, giúp phát hiện và xử lý vấn đề nhanh hơn cũng như hạn chế tối đa phát sinh vấn đề bằng các biện pháp dự phòng đã tích hợp vào hệ thống.
+Cuối cùng, tích hợp các biện pháp dự phòng, các chỉ số cần theo dõi mới, các công cụ phát hiện vấn đề tương tự vào framework chung của công ty. Điều này sẽ giúp chúng ta tích lũy kinh nghiệm, giúp phát hiện và xử lý vấn đề nhanh hơn cũng như hạn chế tối đa phát sinh vấn đề bằng các biện pháp dự phòng đã tích hợp vào hệ thống.
 
 !> Người giải quyết vấn đề giỏi là người dự đoán trước các vấn đề có thể phát sinh và giải quyết nó trước khi vấn đề thực sự hình thành. Do đó, framework giải quyết vấn đề là quan trong nhất trong kỹ năng giải quyết vấn đề.
 
