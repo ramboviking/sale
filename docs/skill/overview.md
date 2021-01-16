@@ -5,3 +5,4 @@ Kỹ năng bán hàng cần thiết cho ngành dược.
 * [Kỹ năng giao tiếp](./communication.md)
 * [Kỹ năng làm việc nhóm](./teamwork.md)
 * [Kỹ năng giải quyết vấn đề](./solving.md)
+* [Kỹ năng bán thầu](./tender.md)

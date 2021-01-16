@@ -6,6 +6,7 @@
     - [Kỹ năng giao tiếp](/skill/communication.md)
     - [Làm việc nhóm](/skill/teamwork.md)
     - [Giải quyết vấn đề](/skill/solving.md)
+    - [Kỹ năng bán thầu](/skill/tender.md)
 
 - [Product](/product/)
     - [Kim tiền thảo](/product/ktt.md)
