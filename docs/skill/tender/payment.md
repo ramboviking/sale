@@ -1,6 +1,13 @@
 # Thanh toán tiền thuốc
 Để tránh BHXH xuất toán, đơn thuốc phải phù hợp với thông tin trên tờ hướng dẫn sử dụng.
 
+## FENGSHI-OPC viên phong thấp
+Do thuốc có chống chỉ định:
+> Không dùng cho trẻ em, phụ nữ có thai và cho con bú, **bệnh nhân suy gan, suy thận**.
+> Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.
+
+BHXH không đồng ý việc kê đơn thuốc *FENGSHI-OPC viên phong thấp* cho bệnh nhân suy gan, suy thận.
+
 ## HoAstex
 Cấp phát các khoa phòng sử dụng nội trú trong đợt điều trị, khi ra về không hết chai siro bị BHXH nhắc nhở và từ chối thanh toán.
 
@@ -19,3 +26,6 @@ Vì thuốc có *chống chỉ định*
 > Người đái tháo đường, trẻ < 15 tuổi, người có tỳ vị hư hàn: đau bụng, trướng bụng, nôn mửa, tiêu chảy...
 
 BHXH không chấp nhận kê đơn Thuốc ho người lớn OPC cùng với các thuốc điều trị dạ dày trên bênh nhân viêm loét dạ dày. Lý giải điều này, BHXH cho rằng, các bệnh nhân viêm loét dạ dày chắc chắn có triệu chứng: đau bụng, trướng bụng, nôn mửa, tiêu chảy.
+
+
+[Xem thêm so sánh công thức sp OPC với Thông tư](https://docs.google.com/spreadsheets/d/1yMoyFDvHhBW2Ms9srhZmDUYo8Zza5QqSvELi6JiRmjc/edit?usp=sharing)
